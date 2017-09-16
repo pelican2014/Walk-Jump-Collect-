@@ -1,0 +1,16 @@
+Origin of resources:
+LICENSE: http://creativecommons.org/licenses/by-nc/3.0/
+-----------------------------totya-----------------------------http://www.freesound.org/people/totya/
+-cheer.mp3
+-----------------------------fins-----------------------------http://www.freesound.org/people/fins/
+-jump_platform.wav
+-jump_spring.wav
+-diamond.wav
+-success.wav
+-note1~4.wave
+-----------------------------alex_audio-----------------------------http://www.freesound.org/people/alex_audio/
+hurt.mp3
+-----------------------------djgriffin-----------------------------http://www.freesound.org/people/djgriffin/
+background.wav
+
+Other fonts are from Microsoft Windows 7 system.

@@ -1,0 +1,7 @@
+ImpHC						   = require 'classes/entities/ImpHC'
+Diamond                        = require 'classes/entities/Diamond'
+DoorFn                         = require 'classes/entities/DoorFn'
+Entities                       = require 'classes/entities/Entities'
+LaserSystem					   = require 'classes/entities/LaserSystem'
+BombSystem					   = require 'classes/entities/BombSystem'
+RebPtSys					   = require 'classes/entities/RebPtSys'

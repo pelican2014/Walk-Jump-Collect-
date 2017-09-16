@@ -1,0 +1,26 @@
+Change Log:
+
+ver 1.0: first version
+
+ver 1.1 and ver 1.2: changed canvas( got rid of it altogether)
+
+ver 2.0: I adopted most of the much valued suggestions
+- use spritebatch
+- got rid of the flying ability ( and the speeding up ability ) for balance
+- simple culling
+- holding down jump button only makes player jump once
+- moderate the trail
+and more..
+- improved one-way platform so that collision is handled only if player had been above the platform or on it
+- improved UI and added in-game instructions and visual aids
+- added laser system in level 7
+- overhaul of levels to make it more fun to collect the diamonds
+- added star (and OCD) system
+- richer sounds and music
+
+ver 2.1:
+-fixed time step
+-improved parallax scrolling
+-added level 8 and bomb creatures
+-created check points
+-other minor changes

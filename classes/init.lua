@@ -1,0 +1,7 @@
+require 'classes/entities/init'
+RectButton                     = require 'classes/RectButton'
+CircleButton                   = require 'classes/CircleButton'
+Textbox                        = require 'classes/Textbox'
+Transition					   = require 'classes/Transition'
+Filter						   = require 'classes/Filter'
+StopWatch					   = require 'classes/StopWatch'
